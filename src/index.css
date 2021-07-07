@@ -7,7 +7,95 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.heading {
+  background-color: lavender;
+  padding-bottom: 100px;
+}
+
+.homepageButtons {
+  margin: 5px;
+  margin-top: 50px;
+  padding: auto;
+  height: 100px;
+  width: 250px;
+}
+
+/* button {
+  height: 100px;
+  width: 250px;
+}
+
+.btn-container {
+  margin-top: 100px;
+} */
+
+.homepage-pic {
+  opacity: 0.75;
+}
+
+.restOfText {
+  color: blue;
+  text-decoration: underline;
+}
+
+.form-select {
+  width: 250px;
+  display: inline-block;
+}
+
+td {
+  border: solid .5px;
+}
+
+.card {
+  display: inline;
+  height: 150px;
+}
+
+.form-control {
+  width: 250px;
+  display: inline;
+  margin-right: 10px;
+  margin-left: 5px;
+}
+
+.swal-button {
+  padding: 7px 19px;
+  border-radius: 2px;
+  background-color: #4962B3;
+  font-size: 12px;
+  border: 1px solid #3e549a;
+  text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.3);
+}
+
+.hole-cards {
+  margin-bottom: 0;
+  margin-top: 25px;
+}
+
+.flop-cards {
+  margin-bottom: 0;
+}
+
+.hole-div {
+  margin-bottom: 25px;
+}
+
+.flop-div {
+  margin-bottom: 25px;
+}
+
+.prompts-div {
+  margin-bottom: 25px;
+}
+
+img {
+  margin-left: 5px;
+  margin-right: 5px;
 }
