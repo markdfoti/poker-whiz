@@ -17,7 +17,7 @@ function Home() {
         <div class="jumbotron jumbotron-fluid">
             <div class="container">
                 <h1 class="display-4">Welcome to <i>Poker Whiz</i></h1>
-                <p class="lead">Learn the basics of poker ranges, equity and odds to put you head of 99% of other players.</p>
+                <p class="lead">Learn the basics of poker ranges, equity and odds to put you ahead of 99% of other players.</p>
             </div>
         </div>
 
